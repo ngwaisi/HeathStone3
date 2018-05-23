@@ -871,7 +871,7 @@ public static String WhileChoix2(Console c, String choix2, boolean trouver) {
 						plateau.getAdversaire().getCarteEnJeu(choix2));
 			}
 		} catch (ExceptionHeathstone e1) {
-			System.out.println("Null cible ou Carte en Application Ligne 749");
+			System.out.println("Null cible ou Carte en Application Ligne 874");
 		//	e1.printStackTrace();
 		}
 	}
